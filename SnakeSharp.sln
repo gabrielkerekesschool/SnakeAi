@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeSharp", "SnakeSharp\SnakeSharp.csproj", "{61028A98-F3F8-463B-82AF-D5FA8CA96DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeSharpTests", "SnakeSharpTests\SnakeSharpTests.csproj", "{263D87EB-68F0-43D7-8F2F-7EC2C3E8A61A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61028A98-F3F8-463B-82AF-D5FA8CA96DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61028A98-F3F8-463B-82AF-D5FA8CA96DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61028A98-F3F8-463B-82AF-D5FA8CA96DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61028A98-F3F8-463B-82AF-D5FA8CA96DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263D87EB-68F0-43D7-8F2F-7EC2C3E8A61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263D87EB-68F0-43D7-8F2F-7EC2C3E8A61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263D87EB-68F0-43D7-8F2F-7EC2C3E8A61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263D87EB-68F0-43D7-8F2F-7EC2C3E8A61A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
